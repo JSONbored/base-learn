@@ -225,7 +225,7 @@ Base Learn Team • OpenZeppelin • Hardhat • The Base Community
 
 ### 🌟 Star this repo if it helped you earn your NFTs!
 
-Made with ❤️ by a Base Learn Graduate
+Made with ❤️ by <a href="https://github.com/JSONbored">JSONbored</a>
 
 **[⬆ back to top](#-base-learn-solutions---complete-all-13-exercises)**
 
