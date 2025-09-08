@@ -186,7 +186,7 @@ graph LR
 <td width="50%">
 
 ### Community
-- 🏰 [Guild.xyz Base Learn](https://guild.xyz/base-learn)
+- 🏰 [Guild.xyz Base Learn](https://guild.xyz/base)
 - 💬 [Base Discord](https://discord.gg/base)
 - 🐦 [Base Twitter](https://twitter.com/base)
 - 📖 [OpenZeppelin Docs](https://docs.openzeppelin.com/)
