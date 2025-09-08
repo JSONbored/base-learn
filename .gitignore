@@ -46,3 +46,5 @@ deployments/*/*
 *.log
 temp/
 tmp/
+
+.claude/

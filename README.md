@@ -10,6 +10,8 @@
 
 [🚀 Deploy](#-deployment-guide) • [📚 Contracts](#-contract-solutions) • [🏆 Rewards](#-what-youll-earn) • [💡 Tips](#-pro-tips)
 
+![Alt](https://repobeats.axiom.co/api/embed/7db35c0ab9d4ada6d5c46400d30749568919edac.svg "Repobeats analytics image")
+
 </div>
 
 ---
