@@ -10,8 +10,6 @@
 
 [🚀 Deploy](#-deployment-guide) • [📚 Contracts](#-contract-solutions) • [🏆 Rewards](#-what-youll-earn) • [💡 Tips](#-pro-tips)
 
-![Alt](https://repobeats.axiom.co/api/embed/7db35c0ab9d4ada6d5c46400d30749568919edac.svg "Repobeats analytics image")
-
 </div>
 
 ---
@@ -230,5 +228,7 @@ Base Learn Team • OpenZeppelin • Hardhat • The Base Community
 Made with ❤️ by a Base Learn Graduate
 
 **[⬆ back to top](#-base-learn-solutions---complete-all-13-exercises)**
+
+![Alt](https://repobeats.axiom.co/api/embed/7db35c0ab9d4ada6d5c46400d30749568919edac.svg "Repobeats analytics image")
 
 </div>
